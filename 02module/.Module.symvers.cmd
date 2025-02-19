@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/cuiqiang/qudong/test/02module/Module.symvers := sed 's/ko$$/o/' /home/ubuntu/cuiqiang/qudong/test/02module/modules.order | scripts/mod/modpost -m  -E  -o /home/ubuntu/cuiqiang/qudong/test/02module/Module.symvers -e -i Module.symvers   -T -

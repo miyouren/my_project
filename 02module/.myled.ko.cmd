@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/cuiqiang/qudong/test/02module/myled.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/cuiqiang/qudong/test/02module/myled.ko /home/ubuntu/cuiqiang/qudong/test/02module/myled.o /home/ubuntu/cuiqiang/qudong/test/02module/myled.mod.o;  true
